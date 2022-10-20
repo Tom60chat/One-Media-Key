@@ -1,0 +1,6 @@
+Spotify
+Groove Musique
+wmplayer
+vlc
+SoundCloud for Windows (Beta)
+==== Please leave this line at the end ====

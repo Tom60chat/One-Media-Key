@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One Media Key", "One Media Key\One Media Key.csproj", "{8D90C013-9DA1-4F65-8427-79152886FE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Debug|x64.ActiveCfg = Debug|x64
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Debug|x64.Build.0 = Debug|x64
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Release|x64.ActiveCfg = Release|x64
+		{8D90C013-9DA1-4F65-8427-79152886FE6D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B88376A-1AFF-41EE-972F-04EAB1945E82}
+	EndGlobalSection
+EndGlobal
